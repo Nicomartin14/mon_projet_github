@@ -1,0 +1,71 @@
+/* Styles >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+      body {
+        background: url('assets/img/fond.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        
+       
+      }
+       
+       @font-face{
+    font-family:'AlexBrush-Regular';
+    src:url(AlexBrush-Regular.ttf);
+        }
+
+      
+        h1{
+            margin-bottom: 5%;
+            font-family:'AlexBrush-Regular';
+            font-size: 45px;
+        }
+        
+        #texte1{
+            font-family:'AlexBrush-Regular' ;
+            font-size: 22px;
+            width: 80%;
+            margin-left: 10%;
+            margin-right: 15%;
+        }
+        
+        #crayon{
+            margin-left: 10%;
+            width: 80%;
+        }
+        
+        
+        #equipe{
+            width: 80%;
+            margin-left: 12%;
+        }
+        
+        #texte2{
+            margin-left: 13%;
+            font-family: 'AlexBrush-Regular';
+            font-size: 22px;
+        }
+        
+        #archi1,#archi2,#archi3,#archi4{
+            width: 100%;
+        }
+        #photo1,#photo4{
+            color: orange;
+            font-size: 70px;
+        }
+        
+        #photo2,#photo3{
+            color: white;
+            font-size: 70px;
+        }
+        
+        .jumbotron{ 
+            padding-top: 8%;
+            background:none;
+            margin-left: 2.5%;
+            margin-right: 2.5%;
+        }
+        footer{
+            text-align: center;
+        }
+        
